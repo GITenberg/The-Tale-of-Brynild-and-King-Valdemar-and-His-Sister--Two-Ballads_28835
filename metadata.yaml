@@ -22,6 +22,8 @@ creator:
     wikipedia: http://www.encyclopedia.com/topic/Thomas_James_Wise.aspx
 description: The tale of Brynild -- King Valdemar and his sister -- Mirror of Cintra
   -- The harp.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28835#The-Tale-of-Brynild-and-King-Valdemar-and-His-Sister--Two-Ballads
 gutenberg_issued: '2009-05-16'
 gutenberg_type: Text
 identifiers:
